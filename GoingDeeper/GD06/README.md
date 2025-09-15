@@ -14,7 +14,7 @@
         - <img width="588" height="452" alt="image" src="https://github.com/user-attachments/assets/44f18dab-6e83-48b8-bd17-6a3eb5cd62b3" />
             - MLM, NSP loss 그래프를 통해 감소 확인
         - <img width="810" height="524" alt="image" src="https://github.com/user-attachments/assets/cdb4ee84-20d9-4ca9-85c3-0b45bb0827a8" />
-        - <img width="755" height="171" alt="image" src="https://github.com/user-attachments/assets/81fe1616-48d5-4814-88b1-a1e49c327a9c" />
+        - <img width="755" height="171" alt="image" src="https://github.com/user-attachments/assets/81fe1616-48d5-4814-88b1-a1e49c327a9c" />  
             - 구축한 모델과 학습과정을 확인    
 
 
