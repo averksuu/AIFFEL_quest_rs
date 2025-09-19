@@ -43,7 +43,7 @@
 
 ## 3. 2단계: RM (Reward Model) 학습
 두 번째 단계에서는 RM(Reward Model)을 학습했습니다.  
-👉 [RM 코드 노트북 링크](https://github.com/averksuu/AIFFEL_quest_rs/blob/main/GoingDeeper/GD09/RM_github.ipynb)
+👉 [RM 코드 노트북 링크](https://github.com/averksuu/AIFFEL_quest_rs/blob/main/GoingDeeper/GD09/RM_clean_fixed.ipynb)
 
 ### 모델 구조
 - 기존: `GPTRM_custom` (단순 GPT2Model + value_head 구조)  
